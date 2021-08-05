@@ -1,0 +1,2 @@
+rootProject.name = "AutoShell"
+include ':app'
